@@ -1,5 +1,3 @@
-Example 5:
+Example 6:
 
-$ curl -s https://raw.githubusercontent.com/jrjang/ncyu-2019/ex5/scripts/ex5-pre.sh | bash -s -- https://github.com/YOUR_GITHUB_ACCOUNT/ncyu-2019
-
-$ curl -s https://raw.githubusercontent.com/jrjang/ncyu-2019/ex5/scripts/ex5-test.sh | bash -s -- https://github.com/YOUR_GITHUB_ACCOUNT/ncyu-2019
+$ curl -s https://raw.githubusercontent.com/jrjang/ncyu-2019/ex6/scripts/ex6-test.sh | bash -s -- https://github.com/YOUR_GITHUB_ACCOUNT/ncyu-2019
